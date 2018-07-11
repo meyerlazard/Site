@@ -1,29 +1,3 @@
-body {
-	background: gray;
-	font-family: "Encode sans", sans-serif;
-}
-h4 {
-	color : white;
-	font-family: serif;
-	flex-direction: row-reverse;
-}
-.pap {
-	display: flex;
-	color : white;
-	transform-style: preserve-3d;
-}
-
-*{
-	margin : 1000;
-	padding:1000;
-	box-sizing: border-box;
-}
-
-header {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  z-index: 1;
-  position: relative;
-  background-color: red;
+h1{
+	font-family: times new roman;
 }
